@@ -1,0 +1,23 @@
+.carsContainer {
+    background-color: #F3F5F4;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: center;
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+}
+
+.optionBox {
+    width: 15%;
+}
+
+.optionsContainer {
+    padding: 5%;
+    background-color: #FBFBFB;
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+};
+
+

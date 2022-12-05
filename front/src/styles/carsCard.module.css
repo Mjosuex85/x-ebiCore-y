@@ -1,0 +1,35 @@
+.container {
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgb(205, 202, 202);
+    margin: 10px 10px;
+    width: 20rem;
+    height: 17rem;
+    background-color: #FBFBFB ;
+    text-align: left;
+}
+
+/* .container img {
+    text-align: center;
+} */
+
+.subTitle {
+    display: flex;
+    background-color: #6FBEE9;
+    padding: 2%;
+    align-items: center;
+}
+
+.subTitle p {
+    color: white;
+    margin: 5px 8px;
+    align-items: center;
+}
+
+.info {
+    padding: 15px;
+}
+
+.info h6 {
+    color: #6FBEE9;
+    margin-bottom: 1.5rem;
+}
