@@ -1,10 +1,11 @@
 # dependencies
 /node_modules
 
+# production
+/build
+
 # environment variables
 .env
 
 # package.json
 package-lock.json
-
-/build
